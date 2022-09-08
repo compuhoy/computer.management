@@ -1,6 +1,6 @@
 # Computer Management
 
-[![Computer Management](green.png)](https://github.com/compuhoy/computer.management)
+[![Computer Management](green.png)](https://icncomputer.com/computer-management/)
 
 Computer Management is a Microsoft Windows MMC snap-in that was first introduced with Windows XP. It allows access to admin tools, including the Event Viewer, Task Scheduler, local users and groups, performance logs and alerts, Device Manager, Disk Management, and the Services manager.
 
